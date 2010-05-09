@@ -1,0 +1,1 @@
+These edits will allow the eris kernel to overclock. It will also allow SetCPU to autodetect the frequencies. It's currently capped at 710mhz since some eris's can't handle anything faster.

@@ -980,9 +980,25 @@ static struct msm_acpu_clock_platform_data desirec_clock_data = {
 };
 
 static unsigned desirec_perf_acpu_table[] = {
+	19200000,
+	122880000,
+	160000000,
 	245760000,
 	480000000,
 	528000000,
+	547200000,
+	566400000,
+	585600000,
+	614000000,
+	633200000,
+	652400000,
+	671600000,
+	690800000,
+	710000000,
+	729200000,
+	748400000,
+	767600000,
+
 };
 
 static struct perflock_platform_data desirec_perflock_data = {
